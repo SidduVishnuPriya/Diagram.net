@@ -1,0 +1,9 @@
+1. Artificial Intelligence (Foundations)
+
+* Definition of AI
+* Narrow AI vs General AI vs Super AI
+* Symbolic AI vs Statistical AI
+* Rule-Based Systems
+* Knowledge Representation
+* Search Algorithms (BFS, DFS, A*)
+* Heuristics
